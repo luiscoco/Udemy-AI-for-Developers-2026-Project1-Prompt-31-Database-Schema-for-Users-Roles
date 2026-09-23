@@ -1,4 +1,4 @@
-# Auth & Roles
+# Database-Schema-for-Users-Roles
 
 This README documents what was actually done in the workspace after running
 **Prompt A** of the Auth & Roles lesson (adding the `technician` /
